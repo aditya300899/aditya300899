@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Some cool open source projects**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/aditya300899)
+- 👨‍💻 All of my projects are available [@aditya300899](github.com/aditya300899)
 
 - 💬 Ask me about **System Designs, tech and music🎵**
 
